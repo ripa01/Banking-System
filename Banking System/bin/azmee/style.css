@@ -1,0 +1,10 @@
+.bodybg{
+     -fx-background-image: url('../resources/bank.jpg');
+     -fx-background-size: 100% 100%;
+}
+ .moneyTransferbg{
+     -fx-background-image: url('../resources/moneyTransfer.jpg');
+     -fx-background-size: 100% 100%;
+}
+
+    
